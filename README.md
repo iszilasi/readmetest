@@ -1,2 +1,2 @@
 # readmetest
-- ![](image.svg)
+- ![](images/image.svg)
